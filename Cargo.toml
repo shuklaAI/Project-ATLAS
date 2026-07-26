@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "atlas-sdk",
+    "atlas-desktop/src-tauri",
+]
